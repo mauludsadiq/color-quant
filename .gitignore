@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+target/
+**/target/
+
+.lake/
+lake-packages/
+lean/.lake/
+lean/lake-packages/
+*.olean
+*.olean.lock
+
+*.log
+*.tmp
