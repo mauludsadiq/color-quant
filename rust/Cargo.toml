@@ -1,0 +1,17 @@
+[package]
+name = "color_quant_k"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "color_quant_k"
+path = "src/lib.rs"
+
+[[bin]]
+name = "quantize_demo"
+path = "src/bin/quantize_demo.rs"
+
+[dependencies]
+rand = "0.8"
+
+image = "0.25"

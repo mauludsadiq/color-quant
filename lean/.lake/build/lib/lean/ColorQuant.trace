@@ -1,0 +1,28 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["c467393c2e4b0c33.olean"],
+  "i": "a8b66a1fa77457b6.ilean",
+  "c": "745ec6e305c9657f.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/.lake/build/lib/lean /Users/g.bogans/.elan/toolchains/leanprover--lean4---v4.25.1/bin/lean /Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/ColorQuant.lean -o /Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/.lake/build/lib/lean/ColorQuant.olean -i /Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/.lake/build/lib/lean/ColorQuant.ilean -c /Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/.lake/build/ir/ColorQuant.c --setup /Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/.lake/build/ir/ColorQuant.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["ColorQuant:deps",
+   [["deps",
+     [["color_quant_k/ColorQuant:extraDep",
+       [["@color_quant_k:extraDep", "00000000000006bb"]]],
+      ["imports", "00000000000006bb"]]],
+    ["libs",
+     [["import dynlibs", "00000000000006bb"],
+      ["package external libraries", "00000000000006bb"],
+      ["module dynlibs", "00000000000006bb"],
+      ["module plugins", "00000000000006bb"]]]]],
+  ["Lean 4.25.0, commit 259135d0896efb39af2233e8c8ec8e0f46ad67d7",
+   "56bb4bc53ee6c3a2"],
+  ["/Users/g.bogans/Downloads/color_quant_k_repo_extended/lean/ColorQuant.lean",
+   "9be79bca481df7fb"],
+  ["options", "00000000000006bb"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "1f5ea48b10c7925d"}
